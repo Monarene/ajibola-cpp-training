@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564149714 source:c:\users\h p envy\desktop\software engineering\teaching ajobola cpp\learning\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<vector>
+	<cmath>
+
